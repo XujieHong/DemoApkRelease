@@ -1,5 +1,5 @@
 Make sure that arservice is installed first. All apks reply on this service to connect to HMD device.
-You can find all demo apks in 链接:https://pan.baidu.com/s/11v7DOS1wV-oZTwA_6d5yLA  密码:hfuy
+You can find all demo apks in 链接:https://pan.baidu.com/s/1MR__QtYZu7POX80UwC5rWA  密码:hqf2
 
 
 - ArcherySuite ()
